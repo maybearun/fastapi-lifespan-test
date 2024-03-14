@@ -1,8 +1,8 @@
 # testing new fastapi lifespan feature
 
-references used : 
-https://fastapi.tiangolo.com/advanced/events/#async-context-manager
-https://www.starlette.io/lifespan/
+references used : <br>
+https://fastapi.tiangolo.com/advanced/events/#async-context-manager/ <br>
+https://www.starlette.io/lifespan/ <br>
 https://www.youtube.com/watch?v=aYOyiAUzfr0&t=576s
 
 ## setup
